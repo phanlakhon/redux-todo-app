@@ -12,8 +12,6 @@ This is a simple To-Do List application built with React and Redux. The app allo
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository**
-
    ```bash
    git clone https://github.com/phanlakhon/redux-todo-app.git
    cd todo-app
